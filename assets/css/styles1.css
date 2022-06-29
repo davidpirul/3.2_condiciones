@@ -1,0 +1,10 @@
+.borde1 {
+
+    -webkit-filter: drop-shadow(2px 1px 0 red) drop-shadow(-1px -1px 0 black);
+    filter: drop-shadow(2px 1px 0 red) drop-shadow(-1px -1px 0 black);
+
+}
+
+.sinborde {
+    border: none;
+}
